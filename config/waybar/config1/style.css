@@ -1,0 +1,100 @@
+* {
+    border: none;
+    font-family: "JetBrains Mono Nerd Font";
+    font-size: 15px;
+    padding: 2px;
+}
+
+window#waybar {
+         background: rgba(0, 0, 0, 0);
+}      
+ .modules-left {
+    background: rgba(25,26,38,50); 
+    border-radius: 5px;
+ }
+ .modules-right {
+    background: rgba(25,26,38,50); 
+    border-radius: 5px;     
+ }
+ .modules-center {
+    background: rgba(25,26,38,50); 
+    border-radius: 5px;
+ }
+#custom-window-switch1 {
+	color: #e0e0e0;
+}
+#custom-window-switch1:hover {
+	color: #6e6e6e;
+}
+#custom-window-switch2 {
+	color: #e0e0e0;
+}
+#custom-window-switch2:hover {
+	color: #6e6e6e;
+}
+#custom-window-switch3 {
+	color: #e0e0e0;
+}
+#custom-window-switch3:hover {
+	color: #6e6e6e;
+}
+#custom-window-switch4 {
+	color: #e0e0e0;
+}
+#custom-window-switch4:hover {
+	color: #6e6e6e;
+} 
+#custom-window-switch5 {
+	color: #e0e0e0;
+}
+#custom-window-switch5:hover {
+	color: #6e6e6e;
+}
+#custom-rofi_button {
+	color: #e0e0e0;
+}
+
+#custom-cava {
+	   background: #11121c
+}
+#custom-telegram {
+	color: #e0e0e0;
+}
+#custom-telegram:hover {
+	color: #6e6e6e;
+}
+#clock{
+	color: #e0e0e0;
+}
+#clock:hover {
+	color: #6e6e6e;
+}
+#custom-steam {
+	color: #e0e0e0;
+}
+#custom-steam:hover {
+	color: #6e6e6e;
+}
+#battery {
+	color: #78cc82;
+}
+#battery:hover {
+	color: #2d6b31;
+}
+
+#custom-wifi {
+	color: #787bcc;
+	padding: 0px 3px;
+}
+#custom-wifi:hover {
+  	color: #3f377d; 
+}
+#custom-rofi_button {
+	color: #e0e0e0;	
+}
+#custom-rofi_button:hover {
+	color: #6e6e6e;	
+}
+#pulseaudio {
+  color: #e0e0e0;
+}

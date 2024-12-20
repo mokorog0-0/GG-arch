@@ -1,0 +1,26 @@
+{
+    "layers": [
+        "top",
+        "bottom"
+    ],
+    "modules-left": ["network", "bluetooth"],
+    "modules-center": ["workspaces"],
+    "modules-right": ["battery", "clock"],
+    "network": {
+        "format": "{icon} {ssid}",
+        "format-connected": "{icon} {ssid}",
+        "format-disconnected": "Disconnected",
+        "interface": "wlan0" // замените на вашу сетевую карту
+    },
+    "workspaces": {
+        "format": "{name}",
+        "all-outputs": true
+    },
+    "bluetooth": {
+        "format": "{icon} Bluetooth"
+    },
+    "style": {
+        "background": "rgba(255, 255, 255, 0.8)", // Полупрозрачный фон
+        "border-radius": "10px" // Закругленные углы
+    }
+}
