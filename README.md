@@ -12,8 +12,7 @@
 ![photo_2025-02-14_13-58-53](https://github.com/user-attachments/assets/9885ac44-7af4-4945-9c5a-e53d36da25ea)
 
 ### preview configuration clouds
-## 📁
-#### [dots](GG-arch/config)
+#### 📁 [dots](GG-arch/config)
 
 ![2025-02-14T13:37:40,391008088+03:00](https://github.com/user-attachments/assets/1e0c909c-da03-46f5-8687-3f5c238397c1)
 
@@ -22,8 +21,7 @@
 ![2025-02-14T13:44:02,710048104+03:00](https://github.com/user-attachments/assets/caac360e-331d-4245-9d80-026253a2fd0e)
 
 #### config clouds after 21:00 
-## 📁
-#### [dots](config "cloud")
+#### 📁 [dots](config "cloud")
 
 ![2025-02-14T17:15:39,474469591+03:00](https://github.com/user-attachments/assets/ba951485-6e06-4d31-a519-8ab64aedf2f6)
 
