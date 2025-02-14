@@ -2,9 +2,7 @@ GG arch is my collection of dots that I made
 
 needed for work
 
-wallpaper-swww.
-terminal-kitty.
-bar-waybar.
+✔️ wallpaper-swww.  ✔️ terminal-kitty.  ✔️ bar-waybar.
 
 preview of the first configuration
 
