@@ -1,6 +1,12 @@
-GG arch is my collection of dots that I made
+ ________  ________     
+|\   ____\|\   ____\    
+\ \  \___|\ \  \___|    
+ \ \  \  __\ \  \  ___  
+  \ \  \|\  \ \  \|\  \ 
+   \ \_______\ \_______\
+    \|_______|\|_______|  # arch is my collection of dots that I made
 
-needed for work
+## needed for work
 
 ✔️ wallpaper-swww.  ✔️ terminal-kitty.  ✔️ bar-waybar.
 
