@@ -1,4 +1,10 @@
-GG arch is my collection of books that I made
+GG arch is my collection of dots that I made
+
+needed for work
+
+wallpaper-swww.
+terminal-kitty.
+bar-waybar.
 
 preview of the first configuration
 
