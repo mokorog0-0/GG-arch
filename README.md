@@ -4,12 +4,6 @@
 ## needed for work
 
 ### ✔️ wallpaper-swww.  ✔️ terminal-kitty.  ✔️ bar-waybar.
-
-### kitten config
-<details>
-  <summary>
-    preview
-   </summary>
   
 ### preview kitten configuration
 
@@ -17,15 +11,6 @@
 
 ![photo_2025-02-14_13-58-53](https://github.com/user-attachments/assets/9885ac44-7af4-4945-9c5a-e53d36da25ea)
 
-</details>
-
-### configuration clouds
-
-<details>
-  <summary>
-    preview
-   </summary>
-  
 ### preview configuration clouds
 
 ![2025-02-14T13:37:40,391008088+03:00](https://github.com/user-attachments/assets/1e0c909c-da03-46f5-8687-3f5c238397c1)
