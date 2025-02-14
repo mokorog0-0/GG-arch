@@ -2,14 +2,14 @@ GG arch is my collection of books that I made
 
 preview of the first configuration
 
-(https://imgur.com/8KP9pXN)
+(screenshots/photo_2025-02-14_13-58-49.jpg)
 
-(https://imgur.com/6GN2Xo8)
+(screenshots/photo_2025-02-14_13-58-53.jpg)
 
 preview configuration clouds
 
-(https://imgur.com/FVPifTM)
+(screenshots/2025-02-14T13:37:40,391008088+03:00.png)
 
-(https://imgur.com/w04EOiN)
+(screenshots/2025-02-14T13:42:28,552079144+03:00.png)
 
-(https://imgur.com/wPPAVTJ)
+(screenshots/2025-02-14T13:44:02,710048104+03:00.png)
