@@ -1,0 +1,123 @@
+{
+"margin": "5 5 0 5",
+"position": "top",
+    "modules-left": [
+    "custom/rofi_button",
+    "custom/window-switch1",
+    "custom/window-switch2",
+    "custom/window-switch3",
+    "custom/window-switch4", 
+    "custom/window-switch5",
+    "custom/cava"
+    ],
+
+        
+    "modules-center": [
+    "custom/telegram",
+    "clock",
+    "custom/steam",
+],
+
+    
+        "modules-right": [
+        "pulseaudio",
+        "battery",
+        "custom/wifi",
+    ],
+
+    "sway/mode": {
+        "format": "<span style=\"italic\">{}</span>"
+    },
+
+ "clock": {
+         "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
+         "format-alt": "{:%Y-%m-%d}"
+    },
+    "pulseaudio": {
+        "format": " {volume}% {icon} ",
+        "format-icons": {
+            "headphone": "  ",
+            "hands-free": "  ",
+            "headset": "  ",
+            "phone": "  ",
+            "portable": "  ",
+            "car": "  ",
+            "default": ["  ", "  ", "  "]
+        },
+    },
+   "custom/window-switch1": {
+   "format": " 1 ",
+   "on-click": "hyprctl dispatch workspace 1",
+    },
+   "custom/window-switch2": {
+   "format": " 2 ",
+   "on-click": "hyprctl dispatch workspace 2",
+    },
+   "custom/window-switch3": {
+   "format": " 3 ",
+   "on-click": "hyprctl dispatch workspace 3",
+    },
+   "custom/window-switch4": {
+   "format": " 4 ",
+   "on-click": "hyprctl dispatch workspace 4",
+    },
+   "custom/window-switch5": {
+   "format": " 5 ",
+   "on-click": "hyprctl dispatch workspace 5",
+    },
+
+     "custom/rofi_button": {
+     "format": "  ",
+     "on-click": "./RofiMenu.sh",
+    },
+        
+    "battery": {
+            "states": {
+                "warning": 30,
+                "critical": 15
+            },
+            "format": "{icon}",
+            "format-charging": " 󰁹 ",
+            "format-plugged": " ",
+            "format-alt": "{time} {icon}",
+            "format-icons": [" 󱃍 ", " 󰁺 ", " 󰁻 ", " 󰁼 ", " 󰁽 ", " 󰁾 ", " 󰁿 ", " 󰂀 ", " 󰂁 "," 󰂁 ",],  
+  "on-update": "$HOME/.config/waybar/scripts/check_battery.sh",
+     },
+            "custom/wifi": {
+            "format": "  ",
+            "on-click": "cd && cd rofi-wifi-menu && ./rofi-wifi-menu.sh && cd",
+   },
+    "custom/steam": {
+   "format": "      ",
+   "on-click": "steam"
+ },
+
+   "custom/telegram": {
+   	"format": "      ",
+   	"on-click": "telegram-desktop",
+   },
+
+"custom/cava": {
+        "cava_config": "/home/mokorog/.config/cava/config",
+        "framerate": 30,
+        "autosens": 1,
+        "sensitivity": 100,
+        "bars": 14,
+        "lower_cutoff_freq": 50,
+        "higher_cutoff_freq": 10000,
+        "method": "pipewire",
+        "source": "auto",
+        "stereo": true,
+        "reverse": false,
+        "bar_delimiter": 0,
+        "monstercat": false,
+        "waves": false,
+        "noise_reduction": 0.77,
+        "input_delay": 2,
+        "format-icons" : ["▁", "▂", "▃", "▄", "▅", "▆", "▇", "█" ],
+        "actions": {
+                   "on-click-right": "mode"
+                   }
+    }
+}
+
