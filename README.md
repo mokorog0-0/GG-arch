@@ -3,7 +3,7 @@
 
 ## needed for work
 
-### ✔️ wallpaper-swww.  ✔️ terminal-kitty.  ✔️ bar-waybar.
+### ✔️ wallpaper-swww.  ✔️ terminal-kitty.  ✔️ bar-waybar.  ✔️ file-pcmenfm
   
 ### preview kitten configuration
 #### 📁 [dots](config)
