@@ -1,0 +1,91 @@
+* {
+    border: none;
+    font-family: "JetBrains Mono Nerd Font";
+    font-size: 15px;
+    padding: 0.5px;
+}
+
+window#waybar {
+         background: rgba(0, 0, 0, 0);
+}      
+ .modules-left {
+    background: rgba(25,26,38,50); 
+    border-radius: 5px;
+ }
+ .modules-right {
+    background: rgba(25,26,38,50); 
+    border-radius: 5px;     
+ }
+ .modules-center {
+    background: rgba(25,26,38,50); 
+    border-radius: 5px;
+ }
+#workspaces button {
+	transition: color 0.5s ease, text-shadow 0.5s ease;
+    background: rgba(0, 0, 0, 0);
+    
+}
+#workspaces button.focused {
+}    
+#workspaces button.active {
+	color: #ffcb30;
+	text-shadow: 0 0 10px rgb(255, 203, 48);
+    transition: color 0.5s ease, text-shadow 0.5s ease;
+}
+#custom-rofi_button {
+	transition: color 0.5s ease, text-shadow 0.5s ease;
+}
+#custom-rofi_button:hover {
+	color: #ffcb30;
+    text-shadow: 0 0 10px rgb(255, 203, 48);
+}
+#custom-telegram {
+	transition: color 0.5s ease, text-shadow 0.5s ease;
+}
+#custom-telegram:hover {
+        color: #ffcb30;
+        text-shadow: 0 0 10px rgb(255, 203, 48);
+}	
+#clock{
+	color: #ffcb30;
+    text-shadow: 0 0 10px rgb(255, 203, 48);
+}
+#clock:hover {
+   color: #ffcb30;
+	text-shadow: 0 0 10px rgb(255, 203, 48);
+}
+#custom-steam {
+	transition: color 0.5s ease, text-shadow 0.5s ease;
+}
+#custom-steam:hover {
+        color: #ffcb30;
+        text-shadow: 0 0 10px rgb(255, 203, 48);
+}
+#battery {
+    transition: color 0.5s ease, text-shadow 0.5s ease;
+}
+#battery:hover {
+        color: #ffcb30;
+        text-shadow: 0 0 10px rgb(255, 203, 48);
+}
+#custom-wifi {
+	padding: 0px 3px;
+	transition: color 0.5s ease, text-shadow 0.5s ease;
+}
+#custom-wifi:hover {
+        color: #ffcb30;
+        text-shadow: 0 0 10px rgb(255, 203, 48);  	
+}
+#custom-rofi_button {
+}
+
+#pulseaudio {
+	
+}
+#custom-power {
+  transition: color 0.5s ease, text-shadow 0.5s ease;
+}
+#custom-power:hover {
+        color: #ffcb30;
+        text-shadow: 0 0 10px rgb(255, 203, 48);  
+}
