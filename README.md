@@ -1,8 +1,11 @@
 
 # GG arch is my collection of dots that I made
-# preview kitten configuration
-## needed for work
-## ✔️ swww, ✔️ kitty, ✔️ waybar, ✔️ dolphyn ✔️ rofi,
+
+
+## preview kitten configuration
+
+### needed for work
+#### ✔️ swww, ✔️ kitty, ✔️ waybar, ✔️ dolphyn ✔️ rofi,
   
 ## 📁 [dots](config)
 ## keyboard shortcuts: 
