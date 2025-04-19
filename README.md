@@ -3,7 +3,7 @@
 
 ## needed for work
 
-### ✔️ swww, kitty, waybar, dolphyn
+### ✔️ swww, ✔️ kitty, ✔️ waybar, ✔️ dolphyn
   
 ### preview kitten configuration
 #### 📁 [dots](config)
