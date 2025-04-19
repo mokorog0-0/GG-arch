@@ -6,6 +6,8 @@
 
 ### needed for work
 #### ✔️ swww, ✔️ kitty, ✔️ waybar, ✔️ dolphyn ✔️ rofi,
+------------------------------------------------------
+
   
 ## keyboard shortcuts: 
 #### Super+F = open firefox
@@ -24,6 +26,7 @@
 
 ### needed for work
 #### ✔️ swww, ✔️ kitty, ✔️ waybar, ✔️ dolphyn ✔️ rofi,
+------------------------------------------------------
 
 
 ## keyboard shortcuts: 
