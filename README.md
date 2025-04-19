@@ -13,8 +13,7 @@
 ![photo_2025-02-14_13-58-53](https://github.com/user-attachments/assets/9885ac44-7af4-4945-9c5a-e53d36da25ea)
 
 ### preview configuration clouds
-#### 📁 [dots](config_cloud)
-
+## 📁 [dots](config_cloud)
 #### keyboard shortcuts: 
 #### Super+T = full screen time
 #### Super+F = open firefox
