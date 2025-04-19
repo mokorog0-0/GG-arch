@@ -15,11 +15,11 @@
 ### preview configuration clouds
 #### 📁 [dots](config_cloud)
 
-keyboard shortcuts: 
-Super+T = full screen time
-Super+F = open firefox
-Alt+RMB = resize window
-Alt+LMB = move window
+#### keyboard shortcuts: 
+#### Super+T = full screen time
+#### Super+F = open firefox
+#### Alt+RMB = resize window
+#### Alt+LMB = move window
 
 ![2025-02-14T13:37:40,391008088+03:00](https://github.com/user-attachments/assets/1e0c909c-da03-46f5-8687-3f5c238397c1)
 
