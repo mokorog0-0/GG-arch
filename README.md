@@ -3,18 +3,23 @@
 
 ## needed for work
 
-### ✔️ swww, ✔️ kitty, ✔️ waybar, ✔️ dolphyn
+# ✔️ swww, ✔️ kitty, ✔️ waybar, ✔️ dolphyn ✔️ rofi,
   
 ### preview kitten configuration
-#### 📁 [dots](config)
+## 📁 [dots](config)
+## keyboard shortcuts: 
+#### Super+F = open firefox
+#### Alt+RMB = resize window
+#### Alt+LMB = move window
 
 ![photo_2025-02-14_13-58-49](https://github.com/user-attachments/assets/b83c17bc-0177-4055-a60f-3300b0355e62)
 
 ![photo_2025-02-14_13-58-53](https://github.com/user-attachments/assets/9885ac44-7af4-4945-9c5a-e53d36da25ea)
 
+# ✔️ swww, ✔️ kitty, ✔️ waybar, ✔️ dolphyn ✔️ rofi,
 ### preview configuration clouds
 ## 📁 [dots](config_cloud)
-#### keyboard shortcuts: 
+## keyboard shortcuts: 
 #### Super+T = full screen time
 #### Super+F = open firefox
 #### Alt+RMB = resize window
