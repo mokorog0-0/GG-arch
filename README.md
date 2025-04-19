@@ -3,7 +3,7 @@
 
 ## needed for work
 
-### ✔️ wallpaper-swww.  ✔️ terminal-kitty.  ✔️ bar-waybar.  ✔️ file-dolphyn
+### ✔️ swww, kitty, waybar, dolphyn
   
 ### preview kitten configuration
 #### 📁 [dots](config)
