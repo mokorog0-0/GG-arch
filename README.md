@@ -23,7 +23,7 @@
 ### preview configuration clouds
 
 ### needed for work
-# ✔️ swww, ✔️ kitty, ✔️ waybar, ✔️ dolphyn ✔️ rofi,
+#### ✔️ swww, ✔️ kitty, ✔️ waybar, ✔️ dolphyn ✔️ rofi,
 
 
 ## keyboard shortcuts: 
