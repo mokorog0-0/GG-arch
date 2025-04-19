@@ -1,0 +1,99 @@
+* {
+    border: none;
+    font-family: "JetBrains Mono Nerd Font";
+    font-size: 15px;
+    padding: 0.5px;
+}
+
+window#waybar {
+         background: rgba(0, 0, 0, 0);
+}      
+ .modules-left {
+    background: rgba(25,26,38,50); 
+    border-radius: 5px;
+ }
+ .modules-right {
+    background: rgba(25,26,38,50); 
+    border-radius: 5px;     
+ }
+ .modules-center {
+    background: rgba(25,26,38,50); 
+    border-radius: 5px;
+ }
+#workspaces button {
+	color: #e0e0e0;
+	transition: color 0.5s ease, text-shadow 0.5s ease;
+    background: rgba(0, 0, 0, 0);
+    
+}
+#workspaces button.focused {
+}    
+#workspaces button.active {
+	color: #5c8bdb;
+	text-shadow: 0 -15px 5px rgba(255, 255, 255, 255), 0 -15px 5px rgba(0, 96, 255, 255);
+    transition: color 0.5s ease, text-shadow 0.5s ease;
+}
+#custom-rofi_button {
+	color: #e0e0e0;
+	transition: color 0.5s ease, text-shadow 0.5s ease;
+}
+#custom-rofi_button:hover {
+	color: #5c8bdb;
+    text-shadow: 0 0 5px rgba(255, 255, 255, 255), 0 0 5px rgba(255, 255, 255, 255), 0 0 5px rgba(0, 96, 255, 255);
+}
+#custom-telegram {
+	color: #e0e0e0;
+	transition: color 0.5s ease, text-shadow 0.5s ease;
+}
+#custom-telegram:hover {
+	color: #24A1DE;
+    text-shadow: 0 0 5px rgb(36, 161, 222), 0 0 5px rgb(36, 161, 222);
+}	
+#clock{
+	color: #e0e0e0;
+}
+#clock:hover {
+	color: #6e6e6e;
+}
+#custom-steam {
+	color: #e0e0e0;
+	transition: color 0.5s ease, text-shadow 0.5s ease;
+}
+#custom-steam:hover {
+	color: #00adee;
+	text-shadow: 0 0 5px rgb(42, 71, 94), 0 0 5px rgb(42, 71, 94), 0 0 5px rgb(42, 71, 94);
+}
+#battery {
+	color: #78cc82;
+    transition: color 0.5s ease, text-shadow 0.5s ease;
+}
+#battery:hover {
+	color: #78cc82;
+    text-shadow: 0 0 5px #78cc82, 0 0 5px #78cc82, 0 0 5px #78cc82;
+}
+#custom-wifi {
+	color: #787bcc;
+	padding: 0px 3px;
+	transition: color 0.5s ease, text-shadow 0.5s ease;
+}
+#custom-wifi:hover {
+  	color: #3f377d; 
+  	text-shadow: 0 0 5px rgb( 120, 123, 204), 0 0 5px rgb( 120, 123, 204), 0 0 5px rgb( 120, 123, 204);
+  	
+}
+#custom-rofi_button {
+	color: #e0e0e0;	
+}
+
+#pulseaudio {
+  color: #e0e0e0;
+}
+#custom-power {
+  color: #c93636;
+  transition: color 0.5s ease, text-shadow 0.5s ease;
+}
+#custom-power:hover {
+  color: #c93636;
+  text-shadow: 0 0 5px rgb(201, 54, 54), 0 0 5px rgb(201, 54, 54), 0 0 5px rgb(201, 54, 54);
+  
+}
