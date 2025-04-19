@@ -1,11 +1,9 @@
 
 # GG arch is my collection of dots that I made
-
+# preview kitten configuration
 ## needed for work
-
-# ✔️ swww, ✔️ kitty, ✔️ waybar, ✔️ dolphyn ✔️ rofi,
+## ✔️ swww, ✔️ kitty, ✔️ waybar, ✔️ dolphyn ✔️ rofi,
   
-### preview kitten configuration
 ## 📁 [dots](config)
 ## keyboard shortcuts: 
 #### Super+F = open firefox
