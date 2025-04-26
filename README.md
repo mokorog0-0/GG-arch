@@ -1,6 +1,7 @@
 
 # GG arch is my collection of dots that I made
 
+## installer script 📁 [installer](skript)
 
 ## preview kitten configuration
 
