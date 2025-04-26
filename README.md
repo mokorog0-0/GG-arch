@@ -3,7 +3,7 @@
 
 ### installer [script](install_script.sh) 📁
 
-## preview kitten configuration
+# preview kitten configuration
 
 ### needed for work
 #### ✔️ swww, ✔️ kitty, ✔️ waybar, ✔️ dolphyn ✔️ rofi,
