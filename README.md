@@ -2,7 +2,7 @@
 # GG arch is my collection of dots that I made
 
 ### installer [script](install_script.sh) 📁
-
+you need to install the build to activate or write in the command line or create and run the bash file 
 # preview kitten configuration
 
 ### needed for work
